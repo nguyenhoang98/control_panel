@@ -1,0 +1,7 @@
+
+.control_size{
+  flex-basis: 48%;
+  box-shadow: 1px 1px 1px #ccc , -1px -1px 1px #ccc ;
+  height : auto ;
+  padding:10px ;
+}
